@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ff16char</string>
+
+    <string name="char_name">Nama Character</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">about</string>
+    <string name="kingalegg">Alega Cahya Saputra</string>
+    <string name="email">senseialegaasptr@gmail.com</string>
+    <string name="share">share</string>
+
+    <string-array name="data_name">
+        <item>Clive Rosfield</item>
+        <item>Joshua Rosfield</item>
+        <item>Jill Warrick</item>
+        <item>Cidolfus Telamon</item>
+        <item>Dion Lesage</item>
+        <item>Ifrit</item>
+        <item>Phoenix</item>
+        <item>Shiva</item>
+        <item>Ramuh</item>
+        <item>Bahamut</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Putra pertama dari Archduke of Rosaria, dia adalah protagonis utama dan karakter yang dapat dimainkan. Sebagai Perisai Pertama Rosaria, Clive bertugas menjaga adiknya Joshua, Dominan Phoenix, dan diberkati dengan kemampuan menggunakan sebagian apinya. </item>
+        <item>Putra kedua dari Archduke of Rosaria, dia adalah Dominan Phoenix, Eikon Api dan adik laki-laki Clive. Meski dibesarkan dengan baik, dia memperlakukan semua orang dengan baik dan hangat, terutama kakak laki-lakinya. Tidak menyukai wortel.</item>
+        <item>Bangsal Grand Duchy of Rosaria, yang menjaga perdamaian antara negara mereka dan Wilayah Utara, tempat Jill dilahirkan dan diculik. Selain menjadi orang kepercayaan mereka, dia dibesarkan bersama Clive dan Joshua dan merupakan saudara perempuan bagi mereka. Dia adalah Dominan Shiva.</item>
+        <item>Juga dikenal sebagai "Cid", dia adalah Dominan Ramuh dan memimpin sebuah organisasi yang melindungi Pembawa dan Dominan di bawah kekuasaan pemerintah dunia.</item>
+        <item>Putra mahkota Kekaisaran Suci Sanbreque dan pemimpin ordo ksatria yang paling mulia dan paling ditakuti—para naga. Dion dicintai dan dihormati baik oleh rakyat maupun pasukannya, salah satunya karena dia secara pribadi telah membalikkan keadaan pertempuran berkali-kali. Banyak lagu kepahlawanannya dinyanyikan oleh para penyair Sanbrequois.</item>
+        <item>Ifrit adalah Eikon Api kedua (juga disebut Pengawas Inferno), yang berwujud makhluk iblis dengan tanduk besar, moncong seperti serigala, dan surai rambut putih di bagian belakang lehernya. Sama seperti Phoenix, Ifrit memiliki sihir berbasis api, yang memungkinkannya melempar bola api dan menciptakan ledakan dahsyat yang berfungsi ganda sebagai perlindungan dari serangan, serta menembakkan semburan api terkonsentrasi dari mulutnya. Ini pertama kali muncul pada Malam Api, di mana Kerajaan Suci Sanbreque melancarkan serangan Gerbang Phoenix. Dominan Ifrit pertama dan satu-satunya adalah Clive Rosfield.</item>
+        <item>Phoenix adalah Eikon Api, muncul sebagai burung api raksasa yang menyerupai elang atau elang, dengan bulu oranye, hijau, dan kuning serta bulu panjang seperti merak di ekornya. Phoenix memiliki kendali sihir berbasis api yang kuat, mampu meluncurkan tembakan bola api dan menembakkan sinar api terkonsentrasi dari mulutnya untuk menyerang musuh-musuhnya. Ia memiliki kekuatan penyembuhan melalui mantra Flames of Rebirth. Dominan Phoenix dilahirkan dalam keluarga bangsawan Grand Duchy of Rosaria, dengan yang terbaru adalah Joshua Rosfield, putra Archduke Elwin.</item>
+        <item>Shiva adalah Eikon Es, tampil sebagai wanita berkulit pucat dengan rambut panjang pirang platinum yang dihiasi ornamen emas, telinga lancip, mahkota besar di kepalanya, dan gaun putih. Dia menyulap dan memanipulasi es untuk tujuan defensif dan ofensif, seperti meluncurkan es besar sebagai tombak atau membentuk dinding es untuk melindungi dirinya sendiri, serta menghalangi aliran lava. Dominan Siwa lahir di antara orang-orang di Wilayah Utara, yang terbaru adalah Jill Warrick, putri Wilayah Utara yang jatuh dan bangsal House Rosfield. Kekuatannya terbangun setelah dia ditangkap oleh Perang Salib Besi selama invasi mereka ke Rosalith setelah Malam Api.</item>
+        <item>Ramuh adalah Eikon Guntur, dan berwujud seorang lelaki tua dengan janggut putih panjang, mengenakan jubah ungu panjang dan memegang tongkat berbentuk seperti sambaran petir. Ramuh dapat berteleportasi, terlihat selama pertemuan singkatnya dengan Ifrit di mana dia menghindari serangan kegelapan Eikon, dan dapat menimbulkan ledakan listrik ungu yang kuat yang disebut Levinbolts. Dia bisa menggunakan tongkatnya sebagai senjata jarak jauh, seperti saat dia melemparkannya seperti tombak untuk mengusir Typhon di Inner Sanctum of Drake Head. Dominan terbaru Ramuh adalah Cidolfus Telamon mantan Komandan Ksatria Kerajaan Waloeder dan pemimpin Hideaway.</item>
+        <item>Bahamut adalah Eikon Cahaya, muncul sebagai wyvern besar dengan sisik perak dan sayap besar, dan mata ketiga di tengah kepalanya. Kekuatannya terhadap cahaya memungkinkannya menembakkan energi dari mulutnya dan ratusan ledakan energi mirip rudal dari sayapnya. Dominan Bahamut saat ini adalah Dion Lesage, pangeran sulung Kekaisaran Suci Sanbreque, putra Kaisar Suci Sylvestre, dan pemimpin Ordo Suci Ksatria Dragoon. Sebagai agama negara Kekaisaran, gereja Gregorian, menghormati naga sebagai makhluk suci, Dion sebagian besar dipandang sebagai pahlawan dan simbol harapan dan keadilan di antara rakyatnya.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/clive</item>
+        <item>@drawable/joshua</item>
+        <item>@drawable/jill</item>
+        <item>@drawable/cidolfus</item>
+        <item>@drawable/dion</item>
+        <item>@drawable/ifrit</item>
+        <item>@drawable/phoenix</item>
+        <item>@drawable/shiva</item>
+        <item>@drawable/ramuh</item>
+        <item>@drawable/bahamut</item>
+    </integer-array>
+
+</resources>

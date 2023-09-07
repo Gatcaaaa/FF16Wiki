@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/myPict"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/alegg"/>
+    <TextView
+        android:id="@+id/tvMy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/myPict"
+        android:textSize="30sp"
+        android:layout_marginTop="5dp"
+        android:text="@string/kingalegg"
+        android:textStyle="bold"
+        android:gravity="center" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:text="@string/email"
+            android:textAlignment="center"
+            android:textStyle="italic"/>
+</androidx.appcompat.widget.LinearLayoutCompat>
